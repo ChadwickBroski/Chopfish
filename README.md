@@ -4,6 +4,13 @@ A terminal-based version of the classic Chopsticks hand game. Play against the c
 
 ---
 
-## Future Updates
+## Updates
 
-- Might add the function for the computer to play first.
+### V1.2.0
+- Added the computer to play first.
+### V1.1.0
+- Added the base game.
+
+## Future updates
+
+- idk
